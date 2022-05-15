@@ -4,6 +4,7 @@
 	"description": "This is part of the 'Backend development and APIs course from freeCodeCamp",
 	"license": "MIT",
 	"keywords": [ "freecodecamp", "backend", "api" ],
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
